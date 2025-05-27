@@ -1,10 +1,10 @@
 This is the book file.
-
-This file format works similar to the info.txt, motd.txt and rules.txt
-
 Place content in here that you would like to be used by books ingame.
-
 You can use this content by using the book:<section> meta option in kits or item spawning.
+
+
+For example /item writtenbook 1 title:&6Colors author:X book:Colors
+
 
 #Colors
 Minecraft colors:
