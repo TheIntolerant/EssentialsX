@@ -2,6 +2,32 @@
 # Note: You cannot alias an item to another entry in this file.
 
 aliases:
-  bluepaint: blue_dye
-  snad: sand
-  breakfast: cooked_porkchop
+  fse: fermented_spider_eye
+  fspidereye: fermented_spider_eye
+  gms: glistering_melon_slice
+  gmelon: glistering_melon_slice
+  button: stone_button
+  log: oak_log
+  wood: oak_wood
+  planks: oak_planks
+  slab: oak_slab
+  fence: oak_fence
+  trapdoor: oak_trapdoor
+  door: oak_door
+  boat: oak_boat
+  chest_boat: oak_chest_boat
+  pressure_plate: oak_pressure_plate
+  sign: oak_sign
+  hanging_sign: oak_hanging_sign
+  bed: white_bed
+  banner: white_banner
+  wool: white_wool
+  carpet: white_carpet
+  sapling_oak: oak_sapling
+  sapling_spruce: spruce_sapling
+  sapling_birch: birch_sapling
+  sapling_jungle: jungle_sapling
+  sapling_acacia: acacia_sapling
+  sapling_dark_oak: dark_oak_sapling
+  sapling_cherry: cherry_sapling
+  sapling_pale_oak: pale_oak_sapling
